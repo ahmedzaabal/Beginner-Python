@@ -1,6 +1,6 @@
 # Hello, and Welcome to the brand-new python course
 
-![image of python](https://e-globalacademy.com/wp-content/uploads/2021/01/Python.svg_.png)
+![image of python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.defensecode.com%2Freal-world-python-application-security-scanning-with-thunderscan-sast-2%2F&psig=AOvVaw2gaAHuUO5rcBM7YRpt2LtX&ust=1624093965214000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKj669HroPECFQAAAAAdAAAAABAD)
 
 ## Here, you can find the first repository for anyone who is totally new to programming.
 
